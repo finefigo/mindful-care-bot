@@ -29,7 +29,7 @@ const resources: Resource[] = [
   },
   {
     id: '3',
-    title: 'SAMHSA's National Helpline',
+    title: "SAMHSA's National Helpline",
     description: 'Treatment referral and information service for individuals and families',
     type: 'hotline',
     phone: '1-800-662-4357',
